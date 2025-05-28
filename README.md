@@ -1,6 +1,5 @@
-Alright, here's a brand new README for your AI Interview Preparation App, incorporating all the great elements you had and filling in that last detail for the AI service.
-
 AI Interview Preparation App
+
 A full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users prepare for interviews using AI-powered features. This app provides interview questions, answers, and AI-assisted suggestions to enhance your preparation experience.
 
 Features
@@ -10,8 +9,6 @@ User-friendly Interface — Clean and responsive React frontend.
 RESTful API Backend — Node.js and Express server handling data and AI requests.
 Authentication (Optional) — User login and profile management (if implemented).
 Scalable Architecture — Easily extendable with more questions and AI features.
-
-
 Technologies Used
 Frontend: React, JavaScript, HTML, CSS
 Backend: Node.js, Express
